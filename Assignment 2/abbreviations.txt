@@ -1,0 +1,221 @@
+ASTAR - Agency for Science, Technology and Research
+AA - Asian Aerospace
+ACJS - Anglo-Chinese Junior School
+ACM - Asian Civilisations Museum
+ACPS - Anglo-Chinese Primary School
+ACS - Anglo-Chinese School
+ACSS - Anglo-Chinese Secondary School
+ACJC - Anglo-Chinese Junior College
+AG - Attorney-General
+AGC - Attorney-General's Chambers
+AJC - Anderson Junior College
+AMK - Ang Mo Kio
+AMP - Association of Muslim Professionals
+APP - Assistant Public Prosecutor
+AR - Assistant Registrar of the Supreme Court of Singapore
+AWARE - Association of Women for Action and Research
+AYE - Ayer Rajah Expressway
+BMT - Basic Military Training
+CAAS - Civil Aviation Authority of Singapore
+CBD - Central Business District
+CCA - Co-curricular activity
+CCC - Chinese Chamber of Commerce
+CCC - Citizen's Consultative Committee
+CDAC - Chinese Development Assistance Council
+CDC - Community Development Council
+CHIJ - Convent of the Holy Infant Jesus
+CHS - Catholic High School, Singapore
+CNB - Central Narcotics Bureau
+CID - Criminal Investigation Department
+CIP - Community Involvement Project
+CJ - Chief Justice
+CJC - Catholic Junior College
+COE - Certificate of Entitlement
+COE - College of Engineering
+CPF - Central Provident Fund
+CPIB - Corrupt Practices Investigation Bureau
+CWO - Corrective Work Order
+DART - Disaster Assistance and Rescue Team
+DBS - Development Bank of Singapore
+DJ - District Judge
+DPP - Deputy Public Prosecutor
+DR - Deputy Registrar
+DSO - Defence Science Organisation
+DSTA - Defence Science and Technology Agency
+ECP - East Coast Parkway
+EDB - Economic Development Board
+ERP - Electronic Road Pricing
+GCE - General Certificate of Education
+GCT - Goh Chok Tong
+GEP - Gifted Education Programme
+GRC - Group representation constituency
+GST - Goods and Services Tax
+HCI - Hwa Chong Institution
+HDB - Housing Development Board
+HPB - Health Promotion Board
+HSA - Health Sciences Authority
+IC - Identity card
+IC - In charge
+IDA - Infocomm Development Authority
+IP - Integrated Programme
+IR - Integrated Resort
+ISA - Internal Security Act
+ISD - Internal Security Department
+ITE - Institute of Technical Education
+J - Judge
+JA - Judge of Appeal
+JB - Johor Bahru
+JC - Judicial Commissioner
+JBJ - Joshua Benjamin Jeyaretnam
+JJC - Jurong Junior College
+JTC - Jurong Town Corporation
+KIV - Keep In View
+KJE - Kranji Expressway
+KK - Kandang Kerbau Women's and Children's Hospital
+KL - Kuala Lumpur
+KPE - Kallang-Paya Lebar Expressway
+LKY - Lee Kuan Yew
+LRT - Light Rapid Transit
+LTA - Land Transport Authority
+MAS - Monetary Authority of Singapore
+MC - Medical Certificate
+MCD - Ministry of Community Development
+MCS - Methodist Church in Singapore
+MCYS - Ministry of Community Development, Youth and Sports
+MDA - Media Development Authority
+MGS - Methodist Girls' School
+MICA - Ministry of Information, Communications and the Arts
+MITA - Ministry of Information and the Arts
+MINDEF - Ministry of Defence
+MOE - Ministry of Education
+MOH - Ministry of Health
+MOM - Ministry of Manpower
+MRT - Mass Rapid Transit
+MUIS - Majlis Ugama Islam Singapura
+NCC - National Cadet Corps
+NCMP - Non-Constituency Member of Parliament
+NCS - National Computer Systems
+NCSS - National Council of Social Service
+NDP - National Day Parade
+NEA - National Environment Agency
+NETS - Network for Electronic Transfers
+NIE - National Institute of Education
+NJC - National Junior College
+NKF - National Kidney Foundation Singapore
+NLB - National Library Board
+NMP - Nominated Member of Parliament
+NMS - National Museum of Singapore
+NP - Ngee Ann Polytechnic
+NPCC - National Police Cadet Corps
+NRIC - National Registration Identity Card
+NS - National Service in Singapore
+NSF - Full-time National Service
+NSTB - National Science and Technology Board
+NTC - National Technical Certificate
+NTU - Nanyang Technological University
+NTUC - National Trade Union Congress
+NUH - National University Hospital
+NUS - National University of Singapore
+NWC - National Wages Council
+NYP - Nanyang Polytechnic
+NYJC - Nanyang Junior College
+OB - Out of Bounds
+OBS - Outward Bound School
+OCBC - Oversea-Chinese Banking Corporation
+ORD - Operationally Ready Date
+OUB - Overseas Union Bank
+PA - People's Association
+PAP - People's Action Party
+PE - Physical education
+PHS - Presbyterian High School
+PIE - Pan Island Expressway
+POSB - Post Office Savings Bank
+PP - Public Prosecutor
+PSA - Port of Singapore Authority
+PSC - Public Service Commission
+PSLE - Primary School Leaving Examination
+PUB - Public Utilities Board
+PWD - Public Works Department
+PR - Permanent resident
+RC - Residents' Committee
+RCS - Radio Corporation of Singapore
+RGS - Raffles Girls' School
+RI - Raffles Institution
+RJC - Raffles Junior College
+ROM - Registry of Marriages
+RJ - Raffles Junior
+RP - Republic Polytechnic
+RSAF - Republic of Singapore Air Force
+RSN - Republic of Singapore Navy
+RVHS - River Valley High School
+SAF - Singapore Armed Forces
+SAIL - Strategies for Active and Independent Learning
+SAJC - St Andrew's Junior College
+SAL - Singapore Academy of Law
+SAM - Singapore Art Museum
+SANA - Singapore Anti-Narcotics Association
+SAP - Special Assistance Plan
+SAR - Senior Assistant Registrar
+SAWL - Singapore Association of Women Lawyers
+SBS - Singapore Bus Service
+SC - Senior Counsel
+SCE - School of Computer Engineering
+SCDF - Singapore Civil Defence Force
+SCGS - Singapore Chinese Girls' School
+SCS - Science Centre, Singapore
+SCS - Singapore Computer Systems
+SDA - Singapore Democratic Alliance
+SDJ - Senior District Judge
+SDP - Singapore Democratic Party
+SDU - Social Development Unit
+SFI - Singapore Food Industries
+SG - Solicitor-General
+SGH - Singapore General Hospital
+SGSS - Saint Gabriel's Secondary School
+SGX - Singapore Exchange
+SIA - Singapore Airlines
+SICC - Singapore Island Country Club
+SINDA - Singapore Indian Development Association
+SILS - Singapore Institute of Labour Studies
+SJAB - St. John Ambulance Brigade
+SJI - St. Joseph's Institution
+SLC - Student Leaders' Council
+SLF - Singapore Labour Foundation
+SMC - Single Member Constituency
+SMRT - Singapore Mass Rapid Transit Corporation
+SMU - Singapore Management University
+SNOC - Singapore National Olympic Council
+SNPC - Singapore National Paralympic Council
+SP - Singapore Polytechnic
+SPA - School-based Practical Assessment
+SPCA - Society for the Prevention of Cruelty to Animals
+SPF - Singapore Police Force
+SPH - Singapore Press Holdings
+SRJC - Serangoon Junior College
+SRP - Skills Redevelopment Programme
+SS - Social Studies
+SSC - Singapore Sports Council
+SSC - Singapore Swimming Club
+SSO - Singapore Symphony Orchestra
+ST - Singapore Technologies
+STAR - Special Tactics and Rescue
+SYAS - San Yu Adventist School
+TCHS - The Chinese High School
+TCS - Television Corporation of Singapore
+TIBS - Trans-Island Bus Services
+TJC - Temasek Junior College
+TKGS - Tanjong Katong Girls' School
+TP - Temasek Polytechnic
+TP - Traffic Police
+TPJC - Tampines Junior College
+TPS - Tampines Primary School
+TTC - Trinity Theological College, Singapore
+UOB - United Overseas Bank
+URA - Urban Redevelopment Authority
+VJC - Victoria Junior College
+VS - Victoria School
+VWO - Voluntary Welfare Organisation
+BKE - Bukit Timah Expressway
+CTE - Central Expressway
+SLE - Seletar Expressway
+TPE - Tampines Expressway
